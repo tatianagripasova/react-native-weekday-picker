@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   active: { 
-    backgroundColor: '#2ed15e'
+    backgroundColor: '#007AFF'
   },
   inactive: {
 
