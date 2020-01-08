@@ -37,6 +37,6 @@ const styles = StyleSheet.create({
     color: '#ffffff'
   },
   inactiveText: {
-    color: '#d3d3d3'
+    color: '#999999'
   }
 });
